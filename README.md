@@ -1,1 +1,3 @@
 # -Career-s-Path
+"I feel very ready to take the next step in my career after completing the Bootcamp. It was an intense and rewarding experience, and I’m confident that the skills I've gained have set me up for success. Throughout the Bootcamp, I developed both technical and soft skills that have prepared me for real-world challenges.
+On the technical side, I’ve learned [JavaScript,React,MongoDB,Express,Node JS,Html,Css among others]. These skills are not only theoretical, but I’ve applied them to real projects, which gave me hands-on experience and a deeper understanding of how to solve practical problems.
